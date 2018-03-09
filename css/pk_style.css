@@ -1,0 +1,15 @@
+.pk_sidebar_left
+{
+	width:20%;float:left;margin-right:2%;margin-bottom:10px;
+}
+
+.pk_sidebar_right
+{
+	width:78%;float:left;margin-bottom:10px;
+}
+
+.pk_sidebar_left img
+{
+	width:100% !important;
+	height:100% !important;
+}
